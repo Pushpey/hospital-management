@@ -1,4 +1,4 @@
-.env
+demorest4/.env
 target/
 *.log
 *.class
